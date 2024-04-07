@@ -1,3 +1,4 @@
+const ejmp_Nv = 'EJEMPLOS DE NIVEL AVANZADO'
 /**Ejemplo de git rebase:
 Supongamos que estás trabajando en una función en una rama llamada mi-funcion 
 y quieres integrar los cambios más recientes de la rama develop en tu rama 
